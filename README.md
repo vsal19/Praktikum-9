@@ -43,4 +43,4 @@ Dengan menambahkan eksepsi maka : <p>
 1. Saat input data kosong maka akan meminta untuk memasukan data kembali. <p>
 2. Saat input NIM dan Nilai menggunakan karakter maka program akan meminta untuk memasukan angka. <p>
 
-## TERIMAKASIH
+### TERIMAKASIH
