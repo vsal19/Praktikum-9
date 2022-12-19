@@ -1,12 +1,12 @@
 # Praktikum-9
 
-## Pertemuan 13
+# Pertemuan 13
 
-#### Nama  : Muhamad Faisal Ilham
+### Nama  : Muhamad Faisal Ilham
 
-#### NIM   : 312201322
+### NIM   : 312201322
 
-#### Kelas : TI.22.A3
+### Kelas : TI.22.A3
 
 _______________________________________
 
