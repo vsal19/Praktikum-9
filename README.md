@@ -4,9 +4,11 @@
 
 Nama  : Muhamad Faisal Ilham
 
-NIM  : 312201322
+NIM   : 312201322
 
-### 1. Latihan : Implementasikan penggunaan eksepsi pada lab-lab sebelumnya untuk mengatasi error yang ditimbulkan.
+Kelas : TI.22.A3
+
+### Latihan : Implementasikan penggunaan eksepsi pada lab-lab sebelumnya untuk mengatasi error yang ditimbulkan.
 
 Saya menggunakan eksepsi di bagian input data, Berikut adalah tambahan kode eksepsi. <p>
 
