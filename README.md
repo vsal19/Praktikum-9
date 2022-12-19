@@ -8,7 +8,7 @@
 
 #### Kelas : TI.22.A3
 
-## Latihan : Mengimplementasikan penggunaan eksepsi pada lab-lab sebelumnya untuk mengatasi error yang ditimbulkan.
+Latihan : Mengimplementasikan penggunaan eksepsi pada lab-lab sebelumnya untuk mengatasi error yang ditimbulkan.
 
 Saya menggunakan eksepsi di bagian input data, Berikut adalah tambahan kode eksepsi. <p>
 
