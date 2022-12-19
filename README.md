@@ -2,11 +2,11 @@
 
 ## Pertemuan 13
 
-### Nama  : Muhamad Faisal Ilham
+#### Nama  : Muhamad Faisal Ilham
 
-### NIM   : 312201322
+#### NIM   : 312201322
 
-### Kelas : TI.22.A3
+#### Kelas : TI.22.A3
 
 ## Latihan : Mengimplementasikan penggunaan eksepsi pada lab-lab sebelumnya untuk mengatasi error yang ditimbulkan.
 
